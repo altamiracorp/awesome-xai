@@ -20,25 +20,28 @@ ML techniques more interpretable.
 
 ## Contents
 - [Surveys](#surveys)
-- [Methods](#methods)
-- [Critiques](#critiques)
+    - [Surveys](#surveys)
+    - [Methods](#methods)
+    - [Critiques](#critiques)
+- [Books](#books)
+- [Open Courses](#open-courses)
 - [Repositories](#repositories)
 
 
 <!-- CONTENT -->
-
-## Surveys
+## Papers
 <!-- - [Apple](https://apple.com) - Apple as a placeholder. -->
+### Surveys
 
+### Methods
 
-## Methods
+### Critiques
 
+## Books
 
-## Critiques
-
+## Open Courses
 
 ## Repositories
-
 
 
 <!-- END CONTENT -->
