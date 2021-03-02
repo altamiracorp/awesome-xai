@@ -19,20 +19,27 @@ ML techniques more interpretable.
 <!-- TOC -->
 
 ## Contents
+- [Surveys](#surveys)
+- [Methods](#methods)
+- [Critiques](#critiques)
+- [Repositories](#repositories)
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Surveys
+<!-- - [Apple](https://apple.com) - Apple as a placeholder. -->
 
-- [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Methods
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Critiques
+
+
+## Repositories
+
+
 
 <!-- END CONTENT -->
 
