@@ -1,23 +1,18 @@
 <div align="center">
 
 <!-- title -->
-
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/altamiracorp/awesome-xai/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
-
-A template for an awesome list with required conventions out of the box!
+A curated list of XAI papers, methods, critiques, and resources.
 
 <!-- image -->
-
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
+<img src="https://github.com/altamiracorp/awesome-xai/blob/master/images/icon.png?raw=true" />
 
 <!-- description -->
-
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+Explainable AI (XAI) is a branch of resource which seeks to make various 
+machine learning techniques more interpretable.
 
 </div>
 
@@ -52,9 +47,7 @@ Who else should we be following!?
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/altamiracorp/awesome-xai/graphs/contributors)!
 
 ## License
-
 [CC0 License](license)
