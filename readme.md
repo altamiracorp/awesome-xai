@@ -49,8 +49,7 @@ ML techniques more interpretable.
 <!-- END CONTENT -->
 
 ## Follow
-
-<!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/MO, which frequently involves XAI.
 
 Who else should we be following!?
 
