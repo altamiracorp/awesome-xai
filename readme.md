@@ -44,6 +44,7 @@ ML techniques more interpretable.
 ## Repositories
 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
+- [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
 
 
 <!-- END CONTENT -->
