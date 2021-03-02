@@ -43,6 +43,8 @@ ML techniques more interpretable.
 
 ## Repositories
 
+- [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
+
 
 <!-- END CONTENT -->
 
