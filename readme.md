@@ -189,6 +189,12 @@ ML techniques more interpretable.
     Authors demonstrate why permuting features is misleading, especially where
     there is strong feature dependence. They offer several previously described
     alternatives.
+* [The (Un)reliability of Saliency Methods](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_14) -
+    Authors demonstrate how saliency methods vary attribution when adding a
+    constant shift to the input data. They argue that methods should fulfill
+    *input invariance*, that a saliency method mirror the sensistivity of the
+    model with respect to transformations of the input.
+
 
 ## Books
 
