@@ -100,7 +100,7 @@ ML techniques more interpretable.
 * [TreeView](https://arxiv.org/abs/1611.07429) - Feature-space partitioning
 * [TREPAN](http://www.inf.ufrgs.br/~engel/data/media/file/cmp121/TREPAN_craven.nips96.pdf) - Extracting tree-structured representations of trained networks
 * [TSP](https://dl.acm.org/doi/abs/10.1145/3412815.3416893) - Tree space prototypes
-* [VBP](http://www.columbia.edu/~aec2163/NonFlash/Papers/VisualBackProp.pdf) - Visual back-propogratoin
+* [VBP](http://www.columbia.edu/~aec2163/NonFlash/Papers/VisualBackProp.pdf) - Visual back-propagation
 * [VEC](https://ieeexplore.ieee.org/abstract/document/5949423) - Variable effect characteristic curve
 * [VIN](https://dl.acm.org/doi/abs/10.1145/1014052.1014122) - Variable interaction network
 * [X-TREPAN](https://arxiv.org/abs/1508.07551) - Adapted etraction of comprehensible decision tree in ANNs
