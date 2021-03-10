@@ -125,7 +125,7 @@ ML techniques more interpretable.
 <!-- END CONTENT -->
 
 ## Follow
-- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/MO, which frequently involves XAI.
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 
 Who else should we be following!?
 
