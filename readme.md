@@ -189,6 +189,12 @@ ML techniques more interpretable.
     Authors demonstrate why permuting features is misleading, especially where
     there is strong feature dependence. They offer several previously described
     alternatives.
+* [Stop Explaining Black Box Machine Learning Models for High States Decisions and Use Interpretable Models Instead](https://www.nature.com/articles/s42256-019-0048-x?fbclid=IwAR3156gP-ntoAyw2sHTXo0Z8H9p-2wBKe5jqitsMCdft7xA0P766QvSthFs) -
+    Authors present a number of issues with explainable ML and challenges to
+    interpretable ML: (1) constructing optimal logical models, (2) constructing
+    optimal sparse scoring systems, (3) defining interpretability and creating
+    methods for specific methods. They also offer an argument for why
+    interpretable models might exist in many different domains.
 * [The (Un)reliability of Saliency Methods](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_14) -
     Authors demonstrate how saliency methods vary attribution when adding a
     constant shift to the input data. They argue that methods should fulfill
