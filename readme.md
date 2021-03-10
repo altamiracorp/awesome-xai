@@ -98,6 +98,7 @@ ML techniques more interpretable.
 * [Tolomei, et. al.](https://dl.acm.org/doi/abs/10.1145/3097983.3098039) - Interpretable predictions of tree-ensembles via actionable feature tweaking
 * [Tree Metrics](https://www.researchgate.net/profile/Edward-George-2/publication/2610587_Making_Sense_of_a_Forest_of_Trees/links/55b1085d08aec0e5f430eb40/Making-Sense-of-a-Forest-of-Trees.pdf) - Making sense of a forest of trees
 * [TreeSHAP](https://arxiv.org/abs/1706.06060) Consistent feature attribute for tree ensembles
+* [TreeView](https://arxiv.org/abs/1611.07429) - Feature-space partitioning
 * [TREPAN](http://www.inf.ufrgs.br/~engel/data/media/file/cmp121/TREPAN_craven.nips96.pdf) - Extracting tree-structured representations of trained networks
 * [TSP](https://dl.acm.org/doi/abs/10.1145/3412815.3416893) - Tree space prototypes
 * [VBP](http://www.columbia.edu/~aec2163/NonFlash/Papers/VisualBackProp.pdf) - Visual back-propogratoin
