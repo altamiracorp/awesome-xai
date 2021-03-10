@@ -30,10 +30,9 @@ ML techniques more interpretable.
 
 <!-- CONTENT -->
 ## Papers
-<!-- - [Apple](https://apple.com) - Apple as a placeholder. -->
 ### Surveys
-
 ### Methods
+* [Ada-SISE](https://arxiv.org/abs/2102.07799) - Adaptive semantice inpute sampling for explanation
 * [ALE](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12377) - Accumulated local effects plot
 * [ALIME](https://link.springer.com/chapter/10.1007/978-3-030-33607-3_49) - Autoencoder Based Approach for Local Interpretability
 * [Anchors](https://ojs.aaai.org/index.php/AAAI/article/view/11491) - High-Precision Model-Agnostic Explanations
@@ -107,9 +106,11 @@ ML techniques more interpretable.
 * [X-TREPAN](https://arxiv.org/abs/1508.07551) - Adapted etraction of comprehensible decision tree in ANNs
 * [Xu, et. al.](http://proceedings.mlr.press/v37/xuc15) - Show, attend, tell attention model
 
-
-
 ### Critiques
+* [Do Not Trust Additive Explanations](https://arxiv.org/abs/1903.11420) -
+    Authors argue that addditive explanations (e.g. LIME, SHAP, Break Down) fail
+    to take feature ineractions into account and are thus unreliable.
+  
 
 ## Books
 
