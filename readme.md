@@ -104,6 +104,8 @@ ML techniques more interpretable.
     Rationalizing neural predictions with generator and encoder
 * [LIME](https://dl.acm.org/doi/abs/10.1145/2939672.2939778) -
     Local Interpretable Model-Agnostic Explanations
+* [LOCO](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1307116#.YEkdZ7CSmUk) -
+    Leave-one covariate out
 * [LORE](https://arxiv.org/abs/1805.10820) -
     Local rule-based explanations
 * [Lou, et. al.](https://dl.acm.org/doi/abs/10.1145/2487575.2487579) -
