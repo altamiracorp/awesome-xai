@@ -5,14 +5,14 @@
 # Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/altamiracorp/awesome-xai/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
-A curated list of XAI papers, methods, critiques, and resources.
+A curated list of XAI and Interpretable ML papers, methods, critiques, and resources.
 
 <!-- image -->
 <img src="https://github.com/altamiracorp/awesome-xai/blob/master/images/icon.png?raw=true" />
 
 <!-- description -->
 Explainable AI (XAI) is a branch of machine learning research which seeks to make various 
-ML techniques more interpretable.
+ML techniques more understandable.
 
 </div>
 
