@@ -19,14 +19,14 @@ ML techniques more understandable.
 <!-- TOC -->
 
 ## Contents
-- [Surveys](#surveys)
+- [Papers](#papers)
     - [Landmarks](#landmarks)
     - [Surveys](#surveys)
     - [Methods](#methods)
     - [Critiques](#critiques)
-- [Books](#books)
-- [Open Courses](#open-courses)
 - [Repositories](#repositories)
+- [Follow](#follow)
+- [Contributing](#contributing)
 
 
 <!-- CONTENT -->
@@ -224,19 +224,12 @@ entirety.
     *input invariance*, that a saliency method mirror the sensistivity of the
     model with respect to transformations of the input.
 
-
-## Books
-
-## Open Courses
-
 ## Repositories
 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
 - [slundberg/shap](https://github.com/slundberg/shap) - A python module for using Shapley Additive Explanations.
 
-
-<!-- END CONTENT -->
 
 ## Follow
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
