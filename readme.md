@@ -18,7 +18,7 @@ ML techniques more understandable.
 
 <!-- TOC -->
 
-## Contents
+## Table of Contents
 - [Papers](#papers)
     - [Landmarks](#landmarks)
     - [Surveys](#surveys)
@@ -33,6 +33,7 @@ ML techniques more understandable.
 ## Papers
 
 ### Landmarks
+[(Back to top)](#table-of-contents)
 These are some of our favorite papers. They are helpful to understand the field
 and critical aspects of it. We believe this papers are worth reading in their
 entirety.
@@ -45,8 +46,11 @@ entirety.
     theme that explanations are *contextual*.
 
 ### Surveys
+[(Back to top)](#table-of-contents)
 
 ### Methods
+[(Back to top)](#table-of-contents)
+
 * [Ada-SISE](https://arxiv.org/abs/2102.07799) -
     Adaptive semantice inpute sampling for explanation
 * [ALE](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12377) -
@@ -197,6 +201,8 @@ entirety.
     Show, attend, tell attention model
 
 ### Critiques
+[(Back to top)](#table-of-contents)
+
 * [Attention is not Explanation](https://arxiv.org/abs/1902.10186) -
     Authors perform a series of NLP experiments which argue attention does not
     provide meaningful explanations. They also demosntrate that different
@@ -225,6 +231,7 @@ entirety.
     model with respect to transformations of the input.
 
 ## Repositories
+[(Back to top)](#table-of-contents)
 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
@@ -232,6 +239,8 @@ entirety.
 
 
 ## Follow
+[(Back to top)](#table-of-contents)
+
 Their views aren't necessarily our views. :wink:
 
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) -
@@ -242,6 +251,7 @@ Their views aren't necessarily our views. :wink:
 Who else should we be following!?
 
 ## Contributing
+[(Back to top)](#table-of-contents)
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
