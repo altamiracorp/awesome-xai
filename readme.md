@@ -232,7 +232,12 @@ entirety.
 
 
 ## Follow
-- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
+Their views aren't necessarily our views. :wink:
+
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) -
+    A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
+- [Tim Miller](https://twitter.com/tmiller_unimelb) - 
+    One of the preeminent researchers in XAI.
 
 Who else should we be following!?
 
