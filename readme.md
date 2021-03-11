@@ -20,6 +20,7 @@ ML techniques more understandable.
 
 ## Contents
 - [Surveys](#surveys)
+    - [Landmarks](#landmarks)
     - [Surveys](#surveys)
     - [Methods](#methods)
     - [Critiques](#critiques)
@@ -30,7 +31,21 @@ ML techniques more understandable.
 
 <!-- CONTENT -->
 ## Papers
+
+### Landmarks
+These are some of our favorite papers. They are helpful to understand the field
+and critical aspects of it. We believe this papers are worth reading in their
+entirety.
+
+* [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269) -
+    This paper provides an introduction to the social science research into
+    explanations. The author provides 4 major findings: (1) explanations are
+    constrastive, (2) explanations are selected, (3) probabilities probably
+    don't matter, (4) explanations are social. These fit into the general
+    theme that explanations are *contextual*.
+
 ### Surveys
+
 ### Methods
 * [Ada-SISE](https://arxiv.org/abs/2102.07799) -
     Adaptive semantice inpute sampling for explanation
