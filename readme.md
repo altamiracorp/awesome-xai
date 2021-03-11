@@ -182,6 +182,14 @@ ML techniques more understandable.
     Show, attend, tell attention model
 
 ### Critiques
+* [Attention is not Explanation](https://arxiv.org/abs/1902.10186) -
+    Authors perform a series of NLP experiments which argue attention does not
+    provide meaningful explanations. They also demosntrate that different
+    attentions can generate similar model outputs.
+* [Attention is not **not** Explanation](https://arxiv.org/abs/1908.04626) -
+    This is a rebutal to the above paper. Authors argue that multiple
+    explanations can be valid and that the and that attention can produce *a*
+    valid explanation, if not *the* valid explanation.
 * [Do Not Trust Additive Explanations](https://arxiv.org/abs/1903.11420) -
     Authors argue that addditive explanations (e.g. LIME, SHAP, Break Down) fail
     to take feature ineractions into account and are thus unreliable.
