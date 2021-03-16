@@ -49,6 +49,11 @@ entirety.
 ### Surveys
 [(Back to top)](#table-of-contents)
 
+* [Quantifying Explainability of Saliency Methods in Deep Neural Networks](https://arxiv.org/abs/2009.02899) -
+    An analysis of how different heatmap-based saliency methods perform based on
+    experimentation with a generated dataset.
+
+
 ### Methods
 [(Back to top)](#table-of-contents)
 
