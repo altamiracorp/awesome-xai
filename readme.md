@@ -132,6 +132,8 @@ entirety.
     Accurate intelligibile models with pairwise interactions
 * [LRP](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) -
     Layer-wise relevance propogation
+* [MCR](https://www.jmlr.org/papers/volume20/18-760/18-760.pdf) -
+    Model class reliance
 * [MES](https://ieeexplore.ieee.org/abstract/document/7738872) -
     Model explanation system
 * [MFI](https://arxiv.org/abs/1611.07567) -
