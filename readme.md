@@ -26,7 +26,6 @@ ML techniques more understandable.
 - [Critiques](#critiques)
 - [Repositories](#repositories)
 - [Follow](#follow)
-- [Contributing](#contributing)
 
 
 <!-- CONTENT -->
@@ -89,7 +88,7 @@ entirety.
 - [Lou, et. al.](https://dl.acm.org/doi/abs/10.1145/2487575.2487579) - Accurate intelligibile models with pairwise interactions.
 - [LRP](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) - Layer-wise relevance propogation.
 - [MCR](https://www.jmlr.org/papers/volume20/18-760/18-760.pdf) - Model class reliance.
-- [MES](https://ieeexplore.ieee.org/abstract/document/7738872) - Model explanation system
+- [MES](https://ieeexplore.ieee.org/abstract/document/7738872) - Model explanation system.
 - [MFI](https://arxiv.org/abs/1611.07567) - Feature importance measure for non-linear algorithms.
 - [NID](https://www.sciencedirect.com/science/article/abs/pii/S0304380002000649) - Neural interpretation diagram.
 - [OptiLIME](https://arxiv.org/abs/2006.05714) - Optimized LIME.
