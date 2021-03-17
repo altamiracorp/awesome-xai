@@ -43,6 +43,8 @@ entirety.
 
 ### Surveys
 
+- [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545) - An in-depth description of XAI focused on technqiues for deep learning.
+
 ### Evaluations
 
 - [Quantifying Explainability of Saliency Methods in Deep Neural Networks](https://arxiv.org/abs/2009.02899) - An analysis of how different heatmap-based saliency methods perform based on experimentation with a generated dataset.
