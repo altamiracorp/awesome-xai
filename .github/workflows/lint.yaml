@@ -6,14 +6,7 @@ jobs:
     name: "lint: awesome-lint"
     runs-on: ubuntu-latest
     steps:
-      - name: "checkout repo"
-        uses: actions/checkout@v2.0.0
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Setup node
-        uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
-      - run: |
-          npm install --global awesome-lint@latest
-          awesome-lint ./readme.md
+      - run: npx awesome-lint
