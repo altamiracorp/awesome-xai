@@ -22,6 +22,7 @@ ML techniques more understandable.
 - [Papers](#papers)
     - [Landmarks](#landmarks)
     - [Surveys](#surveys)
+    - [Evaluations](#evaluations)
     - [Methods](#methods)
     - [Critiques](#critiques)
 - [Repositories](#repositories)
@@ -45,14 +46,26 @@ entirety.
     constrastive, (2) explanations are selected, (3) probabilities probably
     don't matter, (4) explanations are social. These fit into the general
     theme that explanations are *contextual*.
+* [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292) -
+    An important read for anyone using saliency maps. This paper proposes two
+    experiments to determine whether saliency maps are useful: (1) model
+    parameter randomization test compares maps from trained and untrained
+    models, (2) data randomization test compares maps from models trained on
+    the original dataset and models trained on the same dataset with randomized
+    labels. They find that "some widely deployed saliency methods are
+    independent of both the data the model was trained on, and the model
+    parameters".
 
 ### Surveys
+[(Back to top)](#table-of-contents)
+
+
+### Evaluations
 [(Back to top)](#table-of-contents)
 
 * [Quantifying Explainability of Saliency Methods in Deep Neural Networks](https://arxiv.org/abs/2009.02899) -
     An analysis of how different heatmap-based saliency methods perform based on
     experimentation with a generated dataset.
-
 
 ### Methods
 [(Back to top)](#table-of-contents)
