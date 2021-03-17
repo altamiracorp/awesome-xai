@@ -19,21 +19,18 @@ ML techniques more understandable.
 <!-- TOC -->
 
 ## Contents
-- [Papers](#papers)
- - [Landmarks](#landmarks)
- - [Surveys](#surveys)
- - [Evaluations](#evaluations)
- - [Methods](#methods)
- - [Critiques](#critiques)
+- [Landmarks](#landmarks)
+- [Surveys](#surveys)
+- [Evaluations](#evaluations)
+- [Methods](#methods)
+- [Critiques](#critiques)
 - [Repositories](#repositories)
 - [Follow](#follow)
 - [Contributing](#contributing)
 
 
 <!-- CONTENT -->
-## Papers
-
-### Landmarks
+## Landmarks
 
 These are some of our favorite papers. They are helpful to understand the field
 and critical aspects of it. We believe this papers are worth reading in their
@@ -42,14 +39,14 @@ entirety.
 - [Explanation in Artificial Intelligence: Insights from the Social Sciences](https://arxiv.org/abs/1706.07269) - This paper provides an introduction to the social science research into explanations. The author provides 4 major findings: (1) explanations are constrastive, (2) explanations are selected, (3) probabilities probably don't matter, (4) explanations are social. These fit into the general theme that explanations are -contextual-.
 - [Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292) - An important read for anyone using saliency maps. This paper proposes two experiments to determine whether saliency maps are useful: (1) model parameter randomization test compares maps from trained and untrained models, (2) data randomization test compares maps from models trained on the original dataset and models trained on the same dataset with randomized labels. They find that "some widely deployed saliency methods are independent of both the data the model was trained on, and the model parameters".
 
-### Surveys
+## Surveys
 
 
-### Evaluations
+## Evaluations
 
 - [Quantifying Explainability of Saliency Methods in Deep Neural Networks](https://arxiv.org/abs/2009.02899) - An analysis of how different heatmap-based saliency methods perform based on experimentation with a generated dataset.
 
-### Methods
+## Methods
 
 - [Ada-SISE](https://arxiv.org/abs/2102.07799) - Adaptive semantice inpute sampling for explanation
 - [ALE](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12377) - Accumulated local effects plot
@@ -127,7 +124,7 @@ entirety.
 - [X-TREPAN](https://arxiv.org/abs/1508.07551) - Adapted etraction of comprehensible decision tree in ANNs
 - [Xu, et. al.](http://proceedings.mlr.press/v37/xuc15) - Show, attend, tell attention model
 
-### Critiques
+## Critiques
 
 - [Attention is not Explanation](https://arxiv.org/abs/1902.10186) - Authors perform a series of NLP experiments which argue attention does not provide meaningful explanations. They also demosntrate that different attentions can generate similar model outputs.
 - [Attention is not --not-- Explanation](https://arxiv.org/abs/1908.04626) - This is a rebutal to the above paper. Authors argue that multiple explanations can be valid and that the and that attention can produce *a* valid explanation, if not -the- valid explanation.
