@@ -23,9 +23,11 @@ ML techniques more understandable.
     - [Landmarks](#landmarks)
     - [Surveys](#surveys)
     - [Evaluations](#evaluations)
-    - [Methods](#methods)
+    - [XAI Methods](#xai-methods)
+    - [Interpretable Models](#interpretable-models)
     - [Critiques](#critiques)
 - [Repositories](#repositories)
+- [Videos](#videos)
 - [Follow](#follow)
 
 
@@ -49,7 +51,7 @@ entirety.
 
 - [Quantifying Explainability of Saliency Methods in Deep Neural Networks](https://arxiv.org/abs/2009.02899) - An analysis of how different heatmap-based saliency methods perform based on experimentation with a generated dataset.
 
-### Methods
+### XAI Methods
 
 - [Ada-SISE](https://arxiv.org/abs/2102.07799) - Adaptive semantice inpute sampling for explanation.
 - [ALE](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12377) - Accumulated local effects plot.
@@ -127,6 +129,18 @@ entirety.
 - [X-TREPAN](https://arxiv.org/abs/1508.07551) - Adapted etraction of comprehensible decision tree in ANNs.
 - [Xu, et. al.](http://proceedings.mlr.press/v37/xuc15) - Show, attend, tell attention model.
 
+### Interpretable Models
+
+- [Decision List](https://christophm.github.io/interpretable-ml-book/rules.html) - Like a decision tree with no branches.
+- [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree) - The tree provides an interpretation.
+- [Explainable Boosting Machine](https://www.youtube.com/watch?v=MREiHgHgl0k) - Method that predicts based on learned vector graphs of features.
+- [k-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) - The prototypical clustering method.
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression) - Easily plottable and understandable regression.
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression) - Easily plottable and understandable classification.
+- [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) - Good classification, poor estimation using conditional probabilities.
+- [RuleFit](https://christophm.github.io/interpretable-ml-book/rulefit.html) - Sparse linear model as decision rules including feature interactions.
+
+
 ### Critiques
 
 - [Attention is not Explanation](https://arxiv.org/abs/1902.10186) - Authors perform a series of NLP experiments which argue attention does not provide meaningful explanations. They also demosntrate that different attentions can generate similar model outputs.
@@ -136,11 +150,17 @@ entirety.
 - [Stop Explaining Black Box Machine Learning Models for High States Decisions and Use Interpretable Models Instead](https://www.nature.com/articles/s42256-019-0048-x?fbclid=IwAR3156gP-ntoAyw2sHTXo0Z8H9p-2wBKe5jqitsMCdft7xA0P766QvSthFs) - Authors present a number of issues with explainable ML and challenges to interpretable ML: (1) constructing optimal logical models, (2) constructing optimal sparse scoring systems, (3) defining interpretability and creating methods for specific methods. They also offer an argument for why interpretable models might exist in many different domains.
 - [The (Un)reliability of Saliency Methods](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_14) - Authors demonstrate how saliency methods vary attribution when adding a constant shift to the input data. They argue that methods should fulfill *input invariance*, that a saliency method mirror the sensistivity of the model with respect to transformations of the input.
 
+
 ## Repositories
 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
 - [slundberg/shap](https://github.com/slundberg/shap) - A python module for using Shapley Additive Explanations.
+
+
+## Videos
+
+- [Debate: Interpretability is necessary for ML](https://www.youtube.com/watch?v=93Xv8vJ2acI) - A debate on whether interpretability is necessary for ML with Rich Caruana and Patrice Simard for and Kilian Weinberger and Yann LeCun against.
 
 
 ## Follow
@@ -149,6 +169,7 @@ Their views aren't necessarily our views. :wink:
 
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 - [Tim Miller](https://twitter.com/tmiller_unimelb) - One of the preeminent researchers in XAI.
+- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines
 
 Who else should we be following!?
 
