@@ -11,8 +11,7 @@ A curated list of XAI and Interpretable ML papers, methods, critiques, and resou
 <img src="https://github.com/altamiracorp/awesome-xai/blob/master/images/icon.png?raw=true" />
 
 <!-- description -->
-Explainable AI (XAI) is a branch of machine learning research which seeks to make various 
-ML techniques more understandable.
+Explainable AI (XAI) is a branch of machine learning research which seeks to make ML techniques more understandable.
 
 </div>
 
