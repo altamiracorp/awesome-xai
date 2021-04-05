@@ -2,7 +2,7 @@
 
 <!-- title -->
 <!--lint ignore no-dead-urls-->
-# Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/altamiracorp/awesome-xai/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 A curated list of XAI and Interpretable ML papers, methods, critiques, and resources.
