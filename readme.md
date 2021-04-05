@@ -5,7 +5,7 @@
 # Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
-A curated list of XAI and Interpretable ML papers, methods, critiques, and resources.
+Explainability and interpretability for machine-learning.
 
 <!-- image -->
 <img src="https://github.com/altamiracorp/awesome-xai/blob/main/images/icon.png?raw=true" />
