@@ -2,7 +2,7 @@
 
 <!-- title -->
 <!--lint ignore no-dead-urls-->
-# Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/altamiracorp/awesome-xai/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- subtitle -->
 A curated list of XAI and Interpretable ML papers, methods, critiques, and
@@ -170,7 +170,7 @@ Their views aren't necessarily our views. :wink:
 
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/index.html) - A UK-based research center that performs research into ethical AI/ML, which frequently involves XAI.
 - [Tim Miller](https://twitter.com/tmiller_unimelb) - One of the preeminent researchers in XAI.
-- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines
+- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) - The man behind Explainable Boosting Machines.
 
 Who else should we be following!?
 
