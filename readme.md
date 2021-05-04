@@ -5,14 +5,15 @@
 # Awesome XAI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/altamiracorp/awesome-xai/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
-A curated list of XAI and Interpretable ML papers, methods, critiques, and resources.
+A curated list of XAI and Interpretable ML papers, methods, critiques, and
+resources.
 
 <!-- image -->
-<img src="https://github.com/altamiracorp/awesome-xai/blob/master/images/icon.png?raw=true" />
+<img src="https://github.com/altamiracorp/awesome-xai/blob/master/images/icon.svg?raw=true" />
 
 <!-- description -->
-Explainable AI (XAI) is a branch of machine learning research which seeks to make various 
-ML techniques more understandable.
+Explainable AI (XAI) is a branch of machine learning research which seeks to
+make various machine learning techniques more understandable.
 
 </div>
 
@@ -155,7 +156,7 @@ entirety.
 
 - [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 - [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
-- [slundberg/shap](https://github.com/slundberg/shap) - A python module for using Shapley Additive Explanations.
+- [slundberg/shap](https://github.com/slundberg/shap) - A Python module for using Shapley Additive Explanations.
 
 
 ## Videos
